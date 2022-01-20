@@ -1,0 +1,19 @@
+.input {
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+
+    width: 100%;
+
+    padding: 1.75rem;
+
+    box-sizing: border-box;
+
+    margin-bottom: 1rem;
+
+    border: none;
+
+    background-color: var(--branco);
+
+    box-shadow: 10px 10px 30px #0000000f;
+}
